@@ -77,7 +77,8 @@
         "meta_descr": "Welcome to Paris Baguette – where every bite tells a story of French-inspired passion and craftsmanship. From freshly baked croissants and delicate pastries to signature cakes and artisan breads, our bakery brings the authentic taste of Paris to your neighborhood. Whether you’re stopping by for your morning coffee or celebrating a special moment, Paris Baguette is here to make every day a little sweeter.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/whatsapp%2520image%25202025-10-09%2520at%252011.19.14_41ca9dde-1080x608.jpg"
       },
       "components": [
         {
@@ -1952,11 +1953,13 @@
     "aboutus.html": {
       "settings": {
         "title": "About Us",
-        "meta_descr": "frtfv gfgfh vvh",
+        "meta_descr": "At Paris Baguette, we believe that every day deserves a little indulgence. Founded with a passion for French-inspired baking, we bring together time-honored techniques, quality ingredients, and a love for sharing joy through food.\n\nFrom our buttery croissants to our beautifully crafted cakes, each item is made fresh daily to deliver the perfect balance of flavor and artistry. More than just a bakery, Paris Baguette is a place where people gather, connect, and create sweet memories — one bite at a time.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "1"
+        "order": "1",
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/whatsapp%2520image%25202025-10-09%2520at%252011.29.10_d6792bcb-1069x601.jpg"
       },
       "components": [
         {
@@ -2824,12 +2827,13 @@
     },
     "location.html": {
       "settings": {
-        "title": "location",
-        "meta_descr": "",
+        "title": "Location",
+        "meta_descr": "Find your nearest Paris Baguette and experience the taste of Paris close to home.\nWhether you’re grabbing your morning coffee or meeting friends for a sweet treat, our bakery cafés are designed to welcome you with warmth, comfort, and the aroma of freshly baked pastries.\nCome visit us — there’s always something fresh waiting for you.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "7"
+        "order": "7",
+        "meta_image": "@PROJECT_PATH@/assets/images/whatsapp%2520image%25202025-10-09%2520at%252011.29.09_2e5464f5-1080x608.jpg"
       },
       "components": [
         {
@@ -3635,12 +3639,13 @@
     },
     "beverage.html": {
       "settings": {
-        "title": "beverage menu",
-        "meta_descr": "",
+        "title": "Beverage",
+        "meta_descr": "Sip something special at Paris Baguette. Our beverage menu blends classic café favorites with modern twists — creamy lattes, iced americanos, fruit teas, and indulgent chocolate drinks.\nPerfectly brewed, beautifully served, and made to match every mood.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "4"
+        "order": "4",
+        "meta_image": "@PROJECT_PATH@/assets/images/whatsapp%2520image%25202025-10-09%2520at%252011.29.09_2e4cf7aa-1080x608.jpg"
       },
       "components": [
         {
@@ -4924,12 +4929,13 @@
     },
     "sweetnpastries.html": {
       "settings": {
-        "title": "sweet & pastries",
-        "meta_descr": "",
+        "title": "Sweet & Pastries",
+        "meta_descr": "At Paris Baguette, our sweets and pastries are baked fresh every day to bring you the perfect taste of Paris. From flaky croissants and buttery danishes to creamy custard tarts and delicate eclairs, each pastry is a little piece of happiness.\nMade with quality ingredients and a touch of French artistry, our pastries turn everyday moments into something special.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "3"
+        "order": "3",
+        "meta_image": "@PROJECT_PATH@/assets/images/whatsapp%2520image%25202025-10-09%2520at%252011.29.09_0bfcc596-1080x608.jpg"
       },
       "components": [
         {
@@ -6803,12 +6809,13 @@
     },
     "salad.html": {
       "settings": {
-        "title": "salad menu",
-        "meta_descr": "",
+        "title": "Salad",
+        "meta_descr": "At Paris Baguette, freshness meets flavor in every bite. Our salads and sandwiches are made daily with crisp vegetables, artisan bread, and quality ingredients — perfect for a light lunch or a quick, satisfying meal.\nFrom vibrant garden salads to hearty baguette sandwiches, every dish is crafted with care and a touch of Parisian charm.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "5"
+        "order": "5",
+        "meta_image": "@PROJECT_PATH@/assets/images/whatsapp%2520image%25202025-10-09%2520at%252011.29.09_7553189f-1080x608.jpg"
       },
       "components": [
         {
@@ -8093,11 +8100,12 @@
     "cake.html": {
       "settings": {
         "title": "cake menu",
-        "meta_descr": "",
+        "meta_descr": "At Paris Baguette, every cake is crafted with passion and precision. From rich chocolate indulgence to light fruit creations, our cakes are designed to make every celebration unforgettable.\nEach layer is baked fresh, frosted with care, and finished with beautiful detail — because every moment deserves a touch of sweetness.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "2"
+        "order": "2",
+        "meta_image": "@PROJECT_PATH@/assets/images/whatsapp%2520image%25202025-10-09%2520at%252011.29.10_3f6fdb17-1080x608.jpg"
       },
       "components": [
         {
@@ -9381,12 +9389,14 @@
     },
     "joinus.html": {
       "settings": {
-        "title": "join us",
-        "meta_descr": "",
+        "title": "Join Us",
+        "meta_descr": "Join the Paris Baguette family!\nWe’re always looking for passionate, friendly, and hardworking people who love great food and warm smiles as much as we do.\nWhether you’re crafting pastries, serving coffee, or welcoming guests, you’ll be part of a team that brings the joy of Parisian baking to every customer.\n✨ Start your journey with us today — where every day is freshly baked with opportunity.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "8"
+        "order": "8",
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/whatsapp%2520image%25202025-10-09%2520at%252011.29.08_5e174d3b-1080x608.jpg"
       },
       "components": [
         {
